@@ -1,7 +1,5 @@
 # Time Series Modeling of S&P 500 Returns
 
-**Topic:** Time Series Analysis
-
 **Student:** Kamesh Dubey (22N0088)
 
 **Program:** MSc. Applied Statistics and Informatics, IIT Bombay
