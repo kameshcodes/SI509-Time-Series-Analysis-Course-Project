@@ -1,10 +1,14 @@
 # Time Series Modeling of S&P 500 Returns
 
-**Course:** SI509: Time Series Analysis
+**Topic:** Time Series Analysis
+
 **Student:** Kamesh Dubey (22N0088)
+
 **Program:** MSc. Applied Statistics and Informatics, IIT Bombay
+
 **Instructor:** Prof. Sanjeev V Sabnis
-**Session:** Spring 2024
+
+**Session:** 2024
 
 ## Introduction
 
